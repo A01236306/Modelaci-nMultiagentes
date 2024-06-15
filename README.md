@@ -19,5 +19,5 @@ En el vínculo de Google Drive, incluimos TODOS los archivos utilizados para ela
  7. Asignar el script "TCPIPServerAsync.cs" (dentro de la carpeta "Assets") al objeto "TCPIPTest" (si no está asignado) dentro de la escena.
  8. Acceder a la carpeta "Assets/Prefabs" y asignar cada uno de los coches de colores (car, car2, car3, car4) a los elementos del script asignado previamente (Element 0, Element 1, Element 2 y Element 3).
  9. Click en el botón "Play".
- 10. Ejecutar el script "copy_of_caragentspace.py" desde la consola de comandos CMD (start /.../Reto/copy_of_caragentspace.py).
+ 10. Ejecutar el script "copy_of_caragentspace.py" desde la consola de comandos CMD (>cd /.../Reto -> >copy_of_caragentspace.py).
  11. Ver la simulación en Unity y esperar a que termine de ejecutarse el script de python desde el CMD.
